@@ -5,11 +5,11 @@ An empirical analysis of market and systemic risk during the 2008 Global Financi
 This project was completed as part of the Financial Risk Management module of the MSc in Finance programme at Dublin City University (DCU).
 The analysis combines academic literature on systemic risk with quantitative modelling of real market data, exploring how the GFC manifested in observable equity and volatility outcomes.
 # What's Inside
-GFC1 risk analysis.ipynb (Main Python notebook) — full analysis and visualisations
-S_P_500.xlsx - S&P 500 daily price data
-JP_Morgan_Final.xlsx - JPMorgan Chase daily price data
-Citi_Group_Inc_Final.xlsx - Citigroup daily price data
-CBOEVIXCLS.xlsx - CBOE VIX Index data
+GFC1 risk analysis.ipynb (Main Python notebook) — full analysis and visualisations;
+S_P_500.xlsx - S&P 500 daily price data;
+JP_Morgan_Final.xlsx - JPMorgan Chase daily price data;
+Citi_Group_Inc_Final.xlsx - Citigroup daily price data;
+CBOEVIXCLS.xlsx - CBOE VIX Index data;
 TEDRATE.xlsx - TED Spread data (liquidity risk indicator)
 # Analysis Includes
 Descriptive statistics and log return calculation
